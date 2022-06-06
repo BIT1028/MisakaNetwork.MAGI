@@ -1,2 +1,4 @@
-package LWdisplayManager;public class displayManager {
+package LWdisplayManager;
+
+public class displayManager {
 }
